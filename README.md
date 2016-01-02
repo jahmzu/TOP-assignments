@@ -1,2 +1,2 @@
-# odin-project-studies
+# odin-project-assignments
 The Odin Project
